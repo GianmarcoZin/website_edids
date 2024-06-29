@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"it.unipd.edids"},{"l":"it.unipd.edids.amazon"},{"l":"it.unipd.edids.entities"},{"l":"it.unipd.edids.graphics"},{"l":"it.unipd.edids.items"},{"l":"it.unipd.edids.jakarta"},{"l":"it.unipd.edids.jakarta.wrappers"},{"l":"it.unipd.edids.utilities"}];updateSearchResults();
